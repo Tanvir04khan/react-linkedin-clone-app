@@ -27,7 +27,7 @@ const Login = () => {
       <Section>
         <Hero>
           <h1>Welcome to your professional community</h1>
-          <img src={heroSvg} alt="" />
+          <img src={heroSvg} alt="hero svg" />
         </Hero>
         <Form>
           <Google>
